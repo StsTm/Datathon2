@@ -152,15 +152,7 @@ Methodology
 + Operationalisation:
   + Outcome: Conflict onset as binary variable
   + Predictor: Legislative and Executive Indices of Electoral Competitiveness (categorical variable)
-  + Controls: Autonomy,  
-
-Descriptive statistics
----
-Maybe boxplot for electoral system conflict vs non-conflict
-
-Results: Clustering
---- 
-What clusters can be found for conflict-prone and peaceful countries?
+  + Controls: Autonomy,  ???
 
 Results: Logistic Regression vs. SVM 
 ---
